@@ -1,0 +1,14 @@
+version: '2'
+services:
+  cdn-server:
+    image: baiyea/docker_nginx_cdn:1.2
+    container_name: "www.yushengxj.com"
+    ports:
+      - "801:80"
+    extra_hosts:
+      - "www.yushengxj.com:43.229.115.181"
+    volumes:
+      - /Users/degao/Documents/Git/docker_cluster/www.yushengxj.com/data/conf/nginx.conf:/usr/local/nginx/conf/nginx.conf
+      - /Users/degao/Documents/Git/docker_cluster/www.yushengxj.com/data/logs://usr/local/nginx/logs
+      - /Users/degao/Documents/Git/docker_cluster/www.yushengxj.com/data/proxy_cache:/home/proxy_cache
+    restart: always

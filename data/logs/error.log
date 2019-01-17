@@ -1,0 +1,195 @@
+2018/10/23 01:51:04 [notice] 1#0: using the "epoll" event method
+2018/10/23 01:51:04 [notice] 1#0: using the "epoll" event method
+2018/10/23 01:51:04 [notice] 1#0: nginx/1.8.1
+2018/10/23 01:51:04 [notice] 1#0: nginx/1.8.1
+2018/10/23 01:51:04 [notice] 1#0: built by gcc 4.8.5 20150623 (Red Hat 4.8.5-28) (GCC) 
+2018/10/23 01:51:04 [notice] 1#0: built by gcc 4.8.5 20150623 (Red Hat 4.8.5-28) (GCC) 
+2018/10/23 01:51:04 [notice] 1#0: OS: Linux 4.9.93-linuxkit-aufs
+2018/10/23 01:51:04 [notice] 1#0: OS: Linux 4.9.93-linuxkit-aufs
+2018/10/23 01:51:04 [notice] 1#0: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2018/10/23 01:51:04 [notice] 1#0: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2018/10/23 01:51:04 [notice] 1#0: start worker processes
+2018/10/23 01:51:04 [notice] 1#0: start worker processes
+2018/10/23 01:51:04 [notice] 1#0: start worker process 6
+2018/10/23 01:51:04 [notice] 1#0: start worker process 6
+2018/10/23 01:51:04 [notice] 1#0: start cache manager process 7
+2018/10/23 01:51:04 [notice] 1#0: start cache manager process 7
+2018/10/23 01:51:04 [notice] 1#0: start cache loader process 8
+2018/10/23 01:51:04 [notice] 1#0: start cache loader process 8
+2018/10/23 01:52:04 [notice] 8#0: http file cache: /home/proxy_cache 50.000M, bsize: 1048576
+2018/10/23 01:52:04 [notice] 8#0: http file cache: /home/proxy_cache 50.000M, bsize: 1048576
+2018/10/23 01:52:04 [notice] 1#0: signal 17 (SIGCHLD) received
+2018/10/23 01:52:04 [notice] 1#0: signal 17 (SIGCHLD) received
+2018/10/23 01:52:04 [notice] 1#0: cache loader process 8 exited with code 0
+2018/10/23 01:52:04 [notice] 1#0: cache loader process 8 exited with code 0
+2018/10/23 01:52:04 [notice] 1#0: signal 29 (SIGIO) received
+2018/10/23 01:52:04 [notice] 1#0: signal 29 (SIGIO) received
+2018/10/23 02:01:09 [notice] 1#0: signal 15 (SIGTERM) received, exiting
+2018/10/23 02:01:09 [notice] 1#0: signal 15 (SIGTERM) received, exiting
+2018/10/23 02:01:09 [notice] 6#0: exiting
+2018/10/23 02:01:09 [notice] 6#0: exiting
+2018/10/23 02:01:09 [notice] 6#0: exit
+2018/10/23 02:01:09 [notice] 7#0: exiting
+2018/10/23 02:01:09 [notice] 7#0: exiting
+2018/10/23 02:01:09 [notice] 1#0: signal 17 (SIGCHLD) received
+2018/10/23 02:01:09 [notice] 1#0: signal 17 (SIGCHLD) received
+2018/10/23 02:01:09 [notice] 1#0: worker process 6 exited with code 0
+2018/10/23 02:01:09 [notice] 1#0: worker process 6 exited with code 0
+2018/10/23 02:01:09 [notice] 1#0: cache manager process 7 exited with code 0
+2018/10/23 02:01:09 [notice] 1#0: cache manager process 7 exited with code 0
+2018/10/23 02:01:09 [alert] 1#0: unlink() "/usr/local/nginx/logs/nginx.pid" failed (2: No such file or directory)
+2018/10/23 02:01:09 [alert] 1#0: unlink() "/usr/local/nginx/logs/nginx.pid" failed (2: No such file or directory)
+2018/10/23 02:01:09 [alert] 1#0: unlink() "/usr/local/nginx/logs/nginx.pid" failed (2: No such file or directory)
+2018/10/23 02:01:09 [notice] 1#0: exit
+2018/10/23 02:01:09 [notice] 1#0: exit
+2018/10/23 02:05:39 [notice] 1#0: using the "epoll" event method
+2018/10/23 02:05:39 [notice] 1#0: using the "epoll" event method
+2018/10/23 02:05:39 [notice] 1#0: nginx/1.8.1
+2018/10/23 02:05:39 [notice] 1#0: nginx/1.8.1
+2018/10/23 02:05:39 [notice] 1#0: built by gcc 4.8.5 20150623 (Red Hat 4.8.5-28) (GCC) 
+2018/10/23 02:05:39 [notice] 1#0: built by gcc 4.8.5 20150623 (Red Hat 4.8.5-28) (GCC) 
+2018/10/23 02:05:39 [notice] 1#0: OS: Linux 4.9.93-linuxkit-aufs
+2018/10/23 02:05:39 [notice] 1#0: OS: Linux 4.9.93-linuxkit-aufs
+2018/10/23 02:05:39 [notice] 1#0: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2018/10/23 02:05:39 [notice] 1#0: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2018/10/23 02:05:39 [notice] 1#0: start worker processes
+2018/10/23 02:05:39 [notice] 1#0: start worker processes
+2018/10/23 02:05:39 [notice] 1#0: start worker process 6
+2018/10/23 02:05:39 [notice] 1#0: start worker process 6
+2018/10/23 02:05:39 [notice] 1#0: start cache manager process 7
+2018/10/23 02:05:39 [notice] 1#0: start cache manager process 7
+2018/10/23 02:05:39 [notice] 1#0: start cache loader process 8
+2018/10/23 02:05:39 [notice] 1#0: start cache loader process 8
+2018/10/23 02:06:28 [notice] 1#0: signal 15 (SIGTERM) received, exiting
+2018/10/23 02:06:28 [notice] 1#0: signal 15 (SIGTERM) received, exiting
+2018/10/23 02:06:28 [notice] 7#0: exiting
+2018/10/23 02:06:28 [notice] 7#0: exiting
+2018/10/23 02:06:28 [notice] 8#0: exiting
+2018/10/23 02:06:28 [notice] 8#0: exiting
+2018/10/23 02:06:28 [notice] 6#0: exiting
+2018/10/23 02:06:28 [notice] 6#0: exiting
+2018/10/23 02:06:28 [notice] 1#0: signal 17 (SIGCHLD) received
+2018/10/23 02:06:28 [notice] 1#0: signal 17 (SIGCHLD) received
+2018/10/23 02:06:28 [notice] 6#0: exit
+2018/10/23 02:06:28 [notice] 1#0: cache manager process 7 exited with code 0
+2018/10/23 02:06:28 [notice] 1#0: cache manager process 7 exited with code 0
+2018/10/23 02:06:28 [notice] 1#0: cache loader process 8 exited with code 0
+2018/10/23 02:06:28 [notice] 1#0: cache loader process 8 exited with code 0
+2018/10/23 02:06:28 [notice] 1#0: signal 29 (SIGIO) received
+2018/10/23 02:06:28 [notice] 1#0: signal 29 (SIGIO) received
+2018/10/23 02:06:28 [notice] 1#0: signal 17 (SIGCHLD) received
+2018/10/23 02:06:28 [notice] 1#0: signal 17 (SIGCHLD) received
+2018/10/23 02:06:28 [notice] 1#0: worker process 6 exited with code 0
+2018/10/23 02:06:28 [notice] 1#0: worker process 6 exited with code 0
+2018/10/23 02:06:28 [notice] 1#0: exit
+2018/10/23 02:06:28 [notice] 1#0: exit
+2018/10/23 02:06:30 [notice] 1#0: using the "epoll" event method
+2018/10/23 02:06:30 [notice] 1#0: using the "epoll" event method
+2018/10/23 02:06:30 [notice] 1#0: nginx/1.8.1
+2018/10/23 02:06:30 [notice] 1#0: nginx/1.8.1
+2018/10/23 02:06:30 [notice] 1#0: built by gcc 4.8.5 20150623 (Red Hat 4.8.5-28) (GCC) 
+2018/10/23 02:06:30 [notice] 1#0: built by gcc 4.8.5 20150623 (Red Hat 4.8.5-28) (GCC) 
+2018/10/23 02:06:30 [notice] 1#0: OS: Linux 4.9.93-linuxkit-aufs
+2018/10/23 02:06:30 [notice] 1#0: OS: Linux 4.9.93-linuxkit-aufs
+2018/10/23 02:06:30 [notice] 1#0: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2018/10/23 02:06:30 [notice] 1#0: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2018/10/23 02:06:30 [notice] 1#0: start worker processes
+2018/10/23 02:06:30 [notice] 1#0: start worker processes
+2018/10/23 02:06:30 [notice] 1#0: start worker process 6
+2018/10/23 02:06:30 [notice] 1#0: start worker process 6
+2018/10/23 02:06:30 [notice] 1#0: start cache manager process 7
+2018/10/23 02:06:30 [notice] 1#0: start cache manager process 7
+2018/10/23 02:06:30 [notice] 1#0: start cache loader process 8
+2018/10/23 02:06:30 [notice] 1#0: start cache loader process 8
+2018/10/23 02:06:37 [info] 6#0: *13 epoll_wait() reported that client prematurely closed connection while sending request to upstream, client: 172.24.0.1, server: www.yushengxj.com, request: "GET /favicon.ico HTTP/1.1", upstream: "http://43.229.115.181:80/favicon.ico", host: "m.yushengxj.com:801", referrer: "http://m.yushengxj.com:801/index.html"
+2018/10/23 02:06:38 [info] 6#0: *12 epoll_wait() reported that client prematurely closed connection while sending request to upstream, client: 172.24.0.1, server: www.yushengxj.com, request: "GET /favicon.ico HTTP/1.1", upstream: "http://43.229.115.181:80/favicon.ico", host: "m.yushengxj.com:801", referrer: "http://m.yushengxj.com:801/index.html"
+2018/10/23 02:07:30 [notice] 8#0: http file cache: /home/proxy_cache 72.000M, bsize: 1048576
+2018/10/23 02:07:30 [notice] 8#0: http file cache: /home/proxy_cache 72.000M, bsize: 1048576
+2018/10/23 02:07:30 [notice] 1#0: signal 17 (SIGCHLD) received
+2018/10/23 02:07:30 [notice] 1#0: signal 17 (SIGCHLD) received
+2018/10/23 02:07:30 [notice] 1#0: cache loader process 8 exited with code 0
+2018/10/23 02:07:30 [notice] 1#0: cache loader process 8 exited with code 0
+2018/10/23 02:07:30 [notice] 1#0: signal 29 (SIGIO) received
+2018/10/23 02:07:30 [notice] 1#0: signal 29 (SIGIO) received
+2018/10/23 02:07:57 [notice] 1#0: signal 15 (SIGTERM) received, exiting
+2018/10/23 02:07:57 [notice] 1#0: signal 15 (SIGTERM) received, exiting
+2018/10/23 02:07:57 [notice] 6#0: exiting
+2018/10/23 02:07:57 [notice] 6#0: exiting
+2018/10/23 02:07:57 [notice] 7#0: exiting
+2018/10/23 02:07:57 [notice] 7#0: exiting
+2018/10/23 02:07:57 [notice] 6#0: exit
+2018/10/23 02:07:57 [notice] 1#0: signal 17 (SIGCHLD) received
+2018/10/23 02:07:57 [notice] 1#0: signal 17 (SIGCHLD) received
+2018/10/23 02:07:57 [notice] 1#0: worker process 6 exited with code 0
+2018/10/23 02:07:57 [notice] 1#0: worker process 6 exited with code 0
+2018/10/23 02:07:57 [notice] 1#0: cache manager process 7 exited with code 0
+2018/10/23 02:07:57 [notice] 1#0: cache manager process 7 exited with code 0
+2018/10/23 02:07:57 [notice] 1#0: exit
+2018/10/23 02:07:57 [notice] 1#0: exit
+2018/10/23 02:07:59 [notice] 1#0: using the "epoll" event method
+2018/10/23 02:07:59 [notice] 1#0: using the "epoll" event method
+2018/10/23 02:07:59 [notice] 1#0: nginx/1.8.1
+2018/10/23 02:07:59 [notice] 1#0: nginx/1.8.1
+2018/10/23 02:07:59 [notice] 1#0: built by gcc 4.8.5 20150623 (Red Hat 4.8.5-28) (GCC) 
+2018/10/23 02:07:59 [notice] 1#0: built by gcc 4.8.5 20150623 (Red Hat 4.8.5-28) (GCC) 
+2018/10/23 02:07:59 [notice] 1#0: OS: Linux 4.9.93-linuxkit-aufs
+2018/10/23 02:07:59 [notice] 1#0: OS: Linux 4.9.93-linuxkit-aufs
+2018/10/23 02:07:59 [notice] 1#0: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2018/10/23 02:07:59 [notice] 1#0: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2018/10/23 02:07:59 [notice] 1#0: start worker processes
+2018/10/23 02:07:59 [notice] 1#0: start worker processes
+2018/10/23 02:07:59 [notice] 1#0: start worker process 6
+2018/10/23 02:07:59 [notice] 1#0: start worker process 6
+2018/10/23 02:07:59 [notice] 1#0: start cache manager process 7
+2018/10/23 02:07:59 [notice] 1#0: start cache manager process 7
+2018/10/23 02:07:59 [notice] 1#0: start cache loader process 8
+2018/10/23 02:07:59 [notice] 1#0: start cache loader process 8
+2018/10/23 02:09:00 [notice] 8#0: http file cache: /home/proxy_cache 20.000M, bsize: 1048576
+2018/10/23 02:09:00 [notice] 8#0: http file cache: /home/proxy_cache 20.000M, bsize: 1048576
+2018/10/23 02:09:00 [notice] 1#0: signal 17 (SIGCHLD) received
+2018/10/23 02:09:00 [notice] 1#0: signal 17 (SIGCHLD) received
+2018/10/23 02:09:00 [notice] 1#0: cache loader process 8 exited with code 0
+2018/10/23 02:09:00 [notice] 1#0: cache loader process 8 exited with code 0
+2018/10/23 02:09:00 [notice] 1#0: signal 29 (SIGIO) received
+2018/10/23 02:09:00 [notice] 1#0: signal 29 (SIGIO) received
+2018/10/24 00:54:44 [notice] 1#0: using the "epoll" event method
+2018/10/24 00:54:44 [notice] 1#0: using the "epoll" event method
+2018/10/24 00:54:44 [notice] 1#0: nginx/1.8.1
+2018/10/24 00:54:44 [notice] 1#0: nginx/1.8.1
+2018/10/24 00:54:44 [notice] 1#0: built by gcc 4.8.5 20150623 (Red Hat 4.8.5-28) (GCC) 
+2018/10/24 00:54:44 [notice] 1#0: built by gcc 4.8.5 20150623 (Red Hat 4.8.5-28) (GCC) 
+2018/10/24 00:54:44 [notice] 1#0: OS: Linux 4.9.93-linuxkit-aufs
+2018/10/24 00:54:44 [notice] 1#0: OS: Linux 4.9.93-linuxkit-aufs
+2018/10/24 00:54:44 [notice] 1#0: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2018/10/24 00:54:44 [notice] 1#0: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2018/10/24 00:54:44 [notice] 1#0: start worker processes
+2018/10/24 00:54:44 [notice] 1#0: start worker processes
+2018/10/24 00:54:44 [notice] 1#0: start worker process 6
+2018/10/24 00:54:44 [notice] 1#0: start worker process 6
+2018/10/24 00:54:44 [notice] 1#0: start cache manager process 7
+2018/10/24 00:54:44 [notice] 1#0: start cache manager process 7
+2018/10/24 00:54:44 [notice] 1#0: start cache loader process 8
+2018/10/24 00:54:44 [notice] 1#0: start cache loader process 8
+2018/10/24 00:55:44 [notice] 8#0: http file cache: /home/proxy_cache 23.000M, bsize: 1048576
+2018/10/24 00:55:44 [notice] 8#0: http file cache: /home/proxy_cache 23.000M, bsize: 1048576
+2018/10/24 00:55:44 [notice] 1#0: signal 17 (SIGCHLD) received
+2018/10/24 00:55:44 [notice] 1#0: signal 17 (SIGCHLD) received
+2018/10/24 00:55:44 [notice] 1#0: cache loader process 8 exited with code 0
+2018/10/24 00:55:44 [notice] 1#0: cache loader process 8 exited with code 0
+2018/10/24 00:55:44 [notice] 1#0: signal 29 (SIGIO) received
+2018/10/24 00:55:44 [notice] 1#0: signal 29 (SIGIO) received
+2018/10/24 01:01:58 [notice] 1#0: signal 15 (SIGTERM) received, exiting
+2018/10/24 01:01:58 [notice] 1#0: signal 15 (SIGTERM) received, exiting
+2018/10/24 01:01:58 [notice] 6#0: exiting
+2018/10/24 01:01:58 [notice] 6#0: exiting
+2018/10/24 01:01:58 [notice] 7#0: exiting
+2018/10/24 01:01:58 [notice] 7#0: exiting
+2018/10/24 01:01:58 [notice] 6#0: exit
+2018/10/24 01:01:58 [notice] 1#0: signal 17 (SIGCHLD) received
+2018/10/24 01:01:58 [notice] 1#0: signal 17 (SIGCHLD) received
+2018/10/24 01:01:58 [notice] 1#0: worker process 6 exited with code 0
+2018/10/24 01:01:58 [notice] 1#0: worker process 6 exited with code 0
+2018/10/24 01:01:58 [notice] 1#0: cache manager process 7 exited with code 0
+2018/10/24 01:01:58 [notice] 1#0: cache manager process 7 exited with code 0
+2018/10/24 01:01:58 [notice] 1#0: exit
+2018/10/24 01:01:58 [notice] 1#0: exit
